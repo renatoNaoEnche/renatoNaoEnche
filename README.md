@@ -63,8 +63,8 @@ Apaixonado por design e tecnologia, busco contribuir com soluções inovadoras e
 
 ## 📊 **Minhas Estatísticas no GitHub**
 
-![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Renato's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renatoNaoEnche&show_icons=true&theme=radical)  
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=renatoNaoEnche&layout=compact&theme=radical)
 
 ---
 
